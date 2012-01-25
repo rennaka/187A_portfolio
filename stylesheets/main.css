@@ -1,0 +1,113 @@
+
+/**container {
+			right: 50%;
+			position: relative:
+			margin: 0 auto;
+			width: 800px;
+			background-color: white;
+			} **/
+body	{
+		background-color: #ffffff;
+		}
+#head 	{
+        background: white;
+        color: black;
+        font-weight: bold;
+        text-align: center;
+        border-style: ridge;
+		
+        width: 100%;
+    
+        display: inline;
+        top: 20px;
+        right: 50px;
+        
+        /**bottom: auto; **/
+        
+        }
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:active	{text-decoration: none;}
+a:hover	 {text-decoration: none;}
+
+
+
+background-image: url(images/header.png;)
+
+
+#navbar ol 		{  		
+ 	
+       		 	float: center;
+       		 	top: 0px;
+       		 	margin: 10px;
+       		 	padding: 0;
+       		 	background-color: none;
+       		 	border-bottom: 0px solid black;
+       		 	list-style: none;   		
+			font-size: 25px;
+			margin: 0px;
+			text-align: center;
+
+					
+			}
+				
+#navbar ol li	        {
+			display: inline; 
+			text-align: center;
+			right: 0px;
+			font-size: 25px;
+			}
+				
+#navbar ol li a 	{
+			text-decoration: none;
+                        padding: .2em 1em;
+                        color: black;
+			background-color: none;
+			text-align: center;
+			}
+				
+#navbar ol li a:hover 	{
+        		background-color: gray;
+        		color: white;
+        		text-decoration: none;
+     			text-align: center; 
+     			}
+     					
+
+		
+		
+		
+.content-left caption   {
+                         text-align: center;                                                                                               
+                        font-style: italics;
+                         }
+                         
+.content-right	h2	{
+                        font-size: 20px;
+                        text-align: center;
+                        }
+                        
+.content-right li       {
+                        list-style-type: none;                    
+                        text-align: left;
+                        font-style: italic;
+                        font-style: bold;
+                        }
+                        
+.content-right p        {
+                        text-align: center;
+                        bottom: auto;
+                        }
+
+.content-rightwork h2   {
+                        text-align: left;
+                        font-size: small;
+}
+h1                      {text-align: center;}
+
+.content-right h1        {
+                        font-size: large;
+                        }
+.content-rightconact h2  {
+                        text-align: center;
+                        }
